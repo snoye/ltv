@@ -1,6 +1,8 @@
-nbatv,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="nbatv" tvg-logo="https://live.fanmingming.cn/tv/nbatv.png",nbatv
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 
