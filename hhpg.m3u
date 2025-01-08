@@ -260,6 +260,51 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031206/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🍹定制台☕️",HBO(VPN)
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 group-title="🍹定制台☕️",卡通频道(VPN)
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 group-title="🍹定制台☕️",三立新闻(VPN)
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 group-title="🍹定制台☕️",TVBS(VPN)
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 group-title="🍹定制台☕️",TVBS新闻台(VPN)
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="🍹定制台☕️",TVBS欢乐台
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="FASHION1080" tvg-logo="https://live.fanmingming.cn/tv/FASHION1080.png",FASHION1080
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-name="FTV4K" tvg-logo="https://live.fanmingming.cn/tv/FTV4K.png",FTV4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.cn/tv/星空.png",星空
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.cn/tv/星空.png",星空
+http://171.213.140.54:8123/udp/239.93.1.10:2193
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://live.fanmingming.cn/tv/TVN.png",TVN
+https://stream1.freetv.fun/tvn-3.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png",纯享4K
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 tvg-name="NOW爆谷" tvg-logo="https://live.fanmingming.cn/tv/NOW爆谷.png",NOW爆谷
+http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.cn/tv/天映.png",天映
+http://205.185.123.236:8899/astro/tianying/tianying.m3u8
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://live.fanmingming.cn/tv/千禧经典.png",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
+https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.cn/tv/东森超视.png",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="超视34.5" tvg-logo="https://live.fanmingming.cn/tv/超视34.5.png",超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="FASHION" tvg-logo="https://live.fanmingming.cn/tv/FASHION.png",FASHION
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+
+
+
 
 
 
