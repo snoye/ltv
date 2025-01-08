@@ -172,8 +172,89 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" group-title="•NewTV「IPV6」",NewTV 炫舞未来「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="•iHOT「IPV6」",iHOT 爱喜剧「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&yang-1989
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="•iHOT「IPV6」",iHOT 爱科幻「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&yang-1989
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="•iHOT「IPV6」",iHOT 爱院线「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&yang-1989
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="•iHOT「IPV6」",iHOT 爱浪漫「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&yang-1989
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="•iHOT「IPV6」",iHOT 爱悬疑「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&yang-1989
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png" group-title="•iHOT「IPV6」",iHOT 爱谍战「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&yang-1989
+#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png" group-title="•iHOT「IPV6」",iHOY 爱历史「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&yang-1989
+#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png" group-title="•iHOT「IPV6」",iHOT 爱科学「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&yang-1989
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.iill.top/logo/iHOT爱幼教.png" group-title="•iHOT「IPV6」",iHOT 爱幼教「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&yang-1989
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.iill.top/logo/iHOT爱玩具.png" group-title="•iHOT「IPV6」",iHOT 爱玩具「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&yang-1989
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="•iHOT「IPV6」",iHOT 爱赛车「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&yang-1989
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png" group-title="•iHOT「IPV6」",iHOT 爱旅行「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&yang-1989
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="•iHOT「IPV6」",iHOT 爱奇谈「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&yang-1989
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="•iHOT「IPV6」",iHOT 爱动漫「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="•iHOT「IPV6」",iHOT 爱体育「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&yang-1989
 
-
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•数字「IPV6」",中国天气「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.iill.top/logo/纪实科教.png" group-title="•数字「IPV6」",纪实科教「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="•数字「IPV6」",求索纪录「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&yang-1989
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.iill.top/logo/求索生活.png" group-title="•数字「IPV6」",求索生活「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&yang-1989
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.iill.top/logo/求索动物.png" group-title="•数字「IPV6」",求索动物「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&yang-1989
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.iill.top/logo/求索科学.png" group-title="•数字「IPV6」",求索科学「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&yang-1989
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.iill.top/logo/精彩影视.png" group-title="•数字「IPV6」",精彩影视「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&yang-1989
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•数字「IPV6」",SiTV 五星体育「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&yang-1989
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="•数字「IPV6」",SiTV 劲爆体育「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&yang-1989
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="•数字「IPV6」",SiTV 魅力足球「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&yang-1989
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="•数字「IPV6」",SiTV 欢笑剧场「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&yang-1989
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.iill.top/logo/法治天地.png" group-title="•数字「IPV6」",SiTV 法治天地「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&yang-1989
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="•数字「IPV6」",SiTV 乐游「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&yang-1989
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="•数字「IPV6」",SiTV 动漫秀场「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&yang-1989
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.iill.top/logo/游戏风云.png" group-title="•数字「IPV6」",SiTV 游戏风云「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&yang-1989
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="•数字「IPV6」",SiTV 生活时尚「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&yang-1989
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.iill.top/logo/都市剧场.png" group-title="•数字「IPV6」",SiTV 都市剧场「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&yang-1989
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="•数字「IPV6」",SiTV 金色学堂「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&yang-1989
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•数字「IPV6」",SiTV 第一财经「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&yang-1989
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="•数字「IPV6」",SiTV 东方财经「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&yang-1989
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.iill.top/logo/哈哈炫动.png" group-title="•数字「IPV6」",哈哈炫动「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.iill.top/logo/金鹰卡通.png" group-title="•数字「IPV6」",金鹰卡通「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.iill.top/logo/金鹰纪实.png" group-title="•数字「IPV6」",金鹰纪实「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.iill.top/logo/茶频道.png" group-title="•数字「IPV6」",茶频道「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.iill.top/logo/快乐垂钓.png" group-title="•数字「IPV6」",快乐垂钓「IPV6」
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
 
 
 
