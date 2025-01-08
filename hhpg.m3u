@@ -64,7 +64,7 @@ http://39.134.61.219/PLTV/88888888/224/3221227074/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221227070/index.m3u8
 
 #EXTINF:-1 tvg-name="中天娱乐-卡b" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
+#http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="芒果TV独播剧" tvg-logo="https://live.fanmingming.cn/tv/芒果TV独播剧.png",芒果TV独播电视剧
 #http://zby.xjqxz.top/dsdsj1/live.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" .-title="🇨🇳 NewTV",黑莓电影
