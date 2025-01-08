@@ -1,23 +1,6 @@
 
 
 
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="电视剧频道1" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道1.png",电视剧频道1
-http://zby.xjqxz.top/dsdsj1/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道2" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道2.png",电视剧频道2
-http://zby.xjqxz.top/gzwxj/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道3" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道3.png",电视剧频道3
-http://zby.xjqxz.top/gzdsj1/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道4" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道4.png",电视剧频道4
-http://zby.xjqxz.top/gzdsj3/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道5" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道5.png",电视剧频道5
-http://zby.xjqxz.top/gzdsj5/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道6" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道6.png",电视剧频道6
-http://zby.xjqxz.top/kzzypd/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道7" tvg-logo="https://live.fanmingming.cn/tv/电视剧频道7.png",电视剧频道7
-http://zby.xjqxz.top/dzzypd3/live.m3u8
-
-
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" .-title="📡  移动央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
