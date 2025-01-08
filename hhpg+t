@@ -684,7 +684,7 @@ https://4gtv.mytvsuper.xyz/?id=4gtv-live048
 #EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" .-title="台湾频道「🅔」", 東森購物四台[4gtv]
 https://4gtv.mytvsuper.xyz/?id=4gtv-live049
 #EXTINF:-1 tvg-name="花花兔子1" tvg-logo="https://live.fanmingming.cn/tv/花花兔子1.png",花花兔子1
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="nbatv" tvg-logo="https://live.fanmingming.cn/tv/nbatv.png",nbatv
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
