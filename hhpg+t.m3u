@@ -67,8 +67,6 @@ http://39.134.61.219/PLTV/88888888/224/3221227070/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="中天娱乐-卡b" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
-#http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="芒果TV独播剧" tvg-logo="https://live.fanmingming.cn/tv/芒果TV独播剧.png",芒果TV独播电视剧
 #http://zby.xjqxz.top/dsdsj1/live.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" .-title="🇨🇳 NewTV",黑莓电影
@@ -189,29 +187,7 @@ http://125.227.210.55:8186/VideoInput/play.ts
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-name="FTV4K" tvg-logo="https://live.fanmingming.cn/tv/FTV4K.png",FTV4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.cn/tv/星空.png",星空
-http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-name="星空" tvg-logo="https://live.fanmingming.cn/tv/星空.png",星空
-http://171.213.140.54:8123/udp/239.93.1.10:2193
-#EXTINF:-1 tvg-name="TVN" tvg-logo="https://live.fanmingming.cn/tv/TVN.png",TVN
-https://stream1.freetv.fun/tvn-3.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png",纯享4K
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷" tvg-logo="https://live.fanmingming.cn/tv/NOW爆谷.png",NOW爆谷
-http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.cn/tv/天映.png",天映
-http://205.185.123.236:8899/astro/tianying/tianying.m3u8
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://live.fanmingming.cn/tv/千禧经典.png",千禧经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
-https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.cn/tv/东森超视.png",东森超视
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-name="超视34.5" tvg-logo="https://live.fanmingming.cn/tv/超视34.5.png",超视34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="FASHION" tvg-logo="https://live.fanmingming.cn/tv/FASHION.png",FASHION
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
@@ -230,9 +206,6 @@ rtmp://60.248.77.83/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN2" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN2.png",ELEVEN2
 rtmp://60.248.77.83/sat/tv741
 
-#EXTINF:-1 tvg-name="now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/爆谷台.png",爆谷台
-
-https://stream1.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8
 
 
 #EXTINF:-1 ,辽宁宜家购物HD
