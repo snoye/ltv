@@ -173,17 +173,17 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="nbatv" tvg-logo="https://live.fanmingming.cn/tv/nbatv.png",nbatv
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 group-title="🍹定制台☕️",HBO(VPN)
+#EXTINF:-1 g-title="🍹定制台☕️",HBO(VPN)
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 group-title="🍹定制台☕️",卡通频道(VPN)
+#EXTINF:-1 grp-title="🍹定制台☕️",卡通频道(VPN)
 http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 group-title="🍹定制台☕️",三立新闻(VPN)
+#EXTINF:-1 goup-title="🍹定制台☕️",三立新闻(VPN)
 http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 group-title="🍹定制台☕️",TVBS(VPN)
+#EXTINF:-1 roup-title="🍹定制台☕️",TVBS(VPN)
 http://125.227.210.55:8188/VideoInput/play.ts
-#EXTINF:-1 group-title="🍹定制台☕️",TVBS新闻台(VPN)
+#EXTINF:-1 goup-title="🍹定制台☕️",TVBS新闻台(VPN)
 http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="🍹定制台☕️",TVBS欢乐台
+#EXTINF:-1 grup-title="🍹定制台☕️",TVBS欢乐台
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="FASHION1080" tvg-logo="https://live.fanmingming.cn/tv/FASHION1080.png",FASHION1080
 http://91.247.68.229:8000/play/Fashion/index.m3u8
