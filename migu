@@ -1,0 +1,87 @@
+睛彩青少,http://39.134.136.161:6610/000000001000/3000000020000031315/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000031315
+睛彩青少,http://39.134.136.161:6610/000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
+睛彩青少,http://39.134.136.161:6610/000000001000/2000000003000000068/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000068
+睛彩篮球,http://39.134.136.161:6610/000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
+睛彩篮球,http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
+睛彩竞技,http://39.134.136.161:6610/000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
+睛彩广场舞,http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="咪咕1" tvg-logo="https://live.fanmingming.cn/tv/咪咕1.png",咪咕1
+http://39.134.136.161:6610/000000001000/3000000001000028638/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000028638
+#EXTINF:-1 tvg-name="咪咕2" tvg-logo="https://live.fanmingming.cn/tv/咪咕2.png",咪咕2
+http://39.134.136.161:6610/000000001000/3000000001000008379/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008379
+#EXTINF:-1 tvg-name="咪咕3" tvg-logo="https://live.fanmingming.cn/tv/咪咕3.png",咪咕3
+http://39.134.136.161:6610/000000001000/3000000001000008001/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008001
+#EXTINF:-1 tvg-name="咪咕4" tvg-logo="https://live.fanmingming.cn/tv/咪咕4.png",咪咕4
+http://39.134.136.161:6610/000000001000/3000000001000031494/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000031494
+#EXTINF:-1 tvg-name="咪咕5" tvg-logo="https://live.fanmingming.cn/tv/咪咕5.png",咪咕5
+http://39.134.136.161:6610/000000001000/3000000001000008176/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008176
+#EXTINF:-1 tvg-name="咪咕6" tvg-logo="https://live.fanmingming.cn/tv/咪咕6.png",咪咕6
+http://39.134.136.161:6610/000000001000/3000000001000010129/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010129
+#EXTINF:-1 tvg-name="咪咕7" tvg-logo="https://live.fanmingming.cn/tv/咪咕7.png",咪咕7
+http://39.134.136.161:6610/000000001000/3000000001000010948/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010948
+#EXTINF:-1 tvg-name="咪咕8" tvg-logo="https://live.fanmingming.cn/tv/咪咕8.png",咪咕8
+http://39.134.136.161:6610/000000001000/3000000001000007218/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000007218
+#EXTINF:-1 tvg-name="咪咕9" tvg-logo="https://live.fanmingming.cn/tv/咪咕9.png",咪咕9
+http://39.134.136.161:6610/000000001000/3000000001000005308/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005308
+#EXTINF:-1 tvg-name="咪咕10" tvg-logo="https://live.fanmingming.cn/tv/咪咕10.png",咪咕10
+http://39.134.136.161:6610/000000001000/3000000001000005969/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005969
+#EXTINF:-1 tvg-name="咪咕11" tvg-logo="https://live.fanmingming.cn/tv/咪咕11.png",咪咕11
+http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000026778
+#EXTINF:-1 tvg-name="咪咕28" tvg-logo="https://live.fanmingming.cn/tv/咪咕28.png",咪咕28
+http://39.134.136.161:6610/000000001000/3000000010000002019/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002019
+#EXTINF:-1 tvg-name="咪咕29" tvg-logo="https://live.fanmingming.cn/tv/咪咕29.png",咪咕29
+http://39.134.136.161:6610/000000001000/3000000010000002032/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002032
+#EXTINF:-1 tvg-name="咪咕30" tvg-logo="https://live.fanmingming.cn/tv/咪咕30.png",咪咕30
+http://39.134.136.161:6610/000000001000/3000000010000004464/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000004464
+#EXTINF:-1 tvg-name="咪咕31" tvg-logo="https://live.fanmingming.cn/tv/咪咕31.png",咪咕31
+http://39.134.136.161:6610/000000001000/3000000010000005837/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000005837
+#EXTINF:-1 tvg-name="咪咕32" tvg-logo="https://live.fanmingming.cn/tv/咪咕32.png",咪咕32
+http://39.134.136.161:6610/000000001000/3000000010000006944/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000006944
+#EXTINF:-1 tvg-name="咪咕33" tvg-logo="https://live.fanmingming.cn/tv/咪咕33.png",咪咕33
+http://39.134.136.161:6610/000000001000/3000000010000007692/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000007692
+#EXTINF:-1 tvg-name="咪咕34" tvg-logo="https://live.fanmingming.cn/tv/咪咕34.png",咪咕34
+http://39.134.136.161:6610/000000001000/3000000010000009788/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000009788
+#EXTINF:-1 tvg-name="咪咕35" tvg-logo="https://live.fanmingming.cn/tv/咪咕35.png",咪咕35
+http://39.134.136.161:6610/000000001000/3000000010000011112/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000011112
+#EXTINF:-1 tvg-name="咪咕36" tvg-logo="https://live.fanmingming.cn/tv/咪咕36.png",咪咕36
+http://39.134.136.161:6610/000000001000/3000000010000011518/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000011518
+#EXTINF:-1 tvg-name="咪咕37" tvg-logo="https://live.fanmingming.cn/tv/咪咕37.png",咪咕37
+http://39.134.136.161:6610/000000001000/3000000010000011763/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000011763
+#EXTINF:-1 tvg-name="咪咕38" tvg-logo="https://live.fanmingming.cn/tv/咪咕38.png",咪咕38
+http://39.134.136.161:6610/000000001000/3000000010000011873/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000011873
+#EXTINF:-1 tvg-name="咪咕39" tvg-logo="https://live.fanmingming.cn/tv/咪咕39.png",咪咕39
+http://39.134.136.161:6610/000000001000/3000000010000012398/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000012398
+#EXTINF:-1 tvg-name="咪咕40" tvg-logo="https://live.fanmingming.cn/tv/咪咕40.png",咪咕40
+http://39.134.136.161:6610/000000001000/3000000010000012450/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000012450
+#EXTINF:-1 tvg-name="咪咕41" tvg-logo="https://live.fanmingming.cn/tv/咪咕41.png",咪咕41
+http://39.134.136.161:6610/000000001000/3000000010000012616/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000012616
+#EXTINF:-1 tvg-name="咪咕42" tvg-logo="https://live.fanmingming.cn/tv/咪咕42.png",咪咕42
+http://39.134.136.161:6610/000000001000/3000000010000015470/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000015470
+#EXTINF:-1 tvg-name="咪咕43" tvg-logo="https://live.fanmingming.cn/tv/咪咕43.png",咪咕43
+http://39.134.136.161:6610/000000001000/3000000010000017389/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000017389
+#EXTINF:-1 tvg-name="咪咕44" tvg-logo="https://live.fanmingming.cn/tv/咪咕44.png",咪咕44
+http://39.134.136.161:6610/000000001000/3000000010000017678/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000017678
+#EXTINF:-1 tvg-name="咪咕45" tvg-logo="https://live.fanmingming.cn/tv/咪咕45.png",咪咕45
+http://39.134.136.161:6610/000000001000/3000000010000017997/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000017997
+#EXTINF:-1 tvg-name="咪咕46" tvg-logo="https://live.fanmingming.cn/tv/咪咕46.png",咪咕46
+http://39.134.136.161:6610/000000001000/3000000010000019380/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000019380
+#EXTINF:-1 tvg-name="咪咕47" tvg-logo="https://live.fanmingming.cn/tv/咪咕47.png",咪咕47
+http://39.134.136.161:6610/000000001000/3000000010000019839/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000019839
+#EXTINF:-1 tvg-name="咪咕48" tvg-logo="https://live.fanmingming.cn/tv/咪咕48.png",咪咕48
+http://39.134.136.161:6610/000000001000/3000000010000020168/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000020168
+#EXTINF:-1 tvg-name="咪咕49" tvg-logo="https://live.fanmingming.cn/tv/咪咕49.png",咪咕49
+http://39.134.136.161:6610/000000001000/3000000010000024205/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000024205
+#EXTINF:-1 tvg-name="咪咕50" tvg-logo="https://live.fanmingming.cn/tv/咪咕50.png",咪咕50
+http://39.134.136.161:6610/000000001000/3000000010000024691/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000024691
+#EXTINF:-1 tvg-name="咪咕51" tvg-logo="https://live.fanmingming.cn/tv/咪咕51.png",咪咕51
+http://39.134.136.161:6610/000000001000/3000000010000025943/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000025943
+#EXTINF:-1 tvg-name="咪咕52" tvg-logo="https://live.fanmingming.cn/tv/咪咕52.png",咪咕52
+http://39.134.136.161:6610/000000001000/3000000010000027318/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000027318
+#EXTINF:-1 tvg-name="咪咕53" tvg-logo="https://live.fanmingming.cn/tv/咪咕53.png",咪咕53
+http://39.134.136.161:6610/000000001000/3000000010000027638/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000027638
+#EXTINF:-1 tvg-name="咪咕54" tvg-logo="https://live.fanmingming.cn/tv/咪咕54.png",咪咕54
+http://39.134.136.161:6610/000000001000/3000000010000031669/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000031669
+#EXTINF:-1 tvg-name="咪咕55" tvg-logo="https://live.fanmingming.cn/tv/咪咕55.png",咪咕55
+http://39.134.136.161:6610/000000001000/3000000010000032106/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000032106
