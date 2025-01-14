@@ -128,6 +128,12 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
 #EXTINF:-1 tvg-name="CBA高清" tvg-logo="https://live.fanmingming.cn/tv/CBA高清.png",CBA高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 
+#lnyd ipv4--------------------------------------------------------------------
+#EXTINF:-1 ,咪咕视频HD
+http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 ,咪咕视频HD
+http://39.134.61.219/PLTV/88888888/224/3221226901/index.m3u8
+#------------------------------------------------------------------------------
 
 
 
