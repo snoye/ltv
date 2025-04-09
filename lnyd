@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-
+#EXTINF:-1 ,咪咕视频HD
+http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 ,咪咕视频HD
+http://39.134.61.219/PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频10.png",咪咕视频10nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频12" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频12.png",咪咕视频12nba
