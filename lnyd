@@ -3,6 +3,14 @@
 http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1 ,咪咕视频HD
 http://39.134.61.219/PLTV/88888888/224/3221226901/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频31" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频31.png",咪咕视频31
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频30" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频30.png",咪咕视频30
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频20" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频20.png",咪咕视频20
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频10.png",咪咕视频10nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频12" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频12.png",咪咕视频12nba
@@ -101,8 +109,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频18" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频18.png",咪咕视频18
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
 
-#EXTINF:-1 tvg-name="咪咕视频20" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频20.png",咪咕视频20
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频21" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频21.png",咪咕视频21
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频22" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频22.png",咪咕视频22
@@ -121,10 +128,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频29" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频29.png",咪咕视频29
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频30" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频30.png",咪咕视频30
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频31" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频31.png",咪咕视频31
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频32" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频32.png",咪咕视频32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV1高清.png",CCTV1高清
