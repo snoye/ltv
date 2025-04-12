@@ -10,7 +10,10 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频20" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频20.png",咪咕视频20
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
-
+#EXTINF:-1 tvg-name="咪咕视频15" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频15.png",咪咕视频15
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频26" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频26.png",咪咕视频26
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频10.png",咪咕视频10nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频12" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频12.png",咪咕视频12nba
@@ -101,8 +104,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
 
 
-#EXTINF:-1 tvg-name="咪咕视频15" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频15.png",咪咕视频15
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频16" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频16.png",咪咕视频16-1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
 
@@ -120,8 +122,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频25" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频25.png",咪咕视频25
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频26" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频26.png",咪咕视频26
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频27" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频27.png",咪咕视频27
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频28" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频28.png",咪咕视频28
