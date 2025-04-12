@@ -17,14 +17,17 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 
 #EXTINF:-1 tvg-name="咪咕视频27" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频27.png",咪咕视频27-8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频17" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频17.png",咪咕视频17-9
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频22" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频22.png",咪咕视频22-10
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频12" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频12.png",咪咕视频12nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频13" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频13.png",咪咕视频13nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频14" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频14.png",咪咕视频14nba
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频17" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频17.png",咪咕视频17nba
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
+
 #EXTINF:-1 tvg-name="咪咕视频08" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频08.png",咪咕视频08
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频23" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频23.png",咪咕视频23
@@ -132,8 +135,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
 
 #EXTINF:-1 tvg-name="咪咕视频21" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频21.png",咪咕视频21
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频22" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频22.png",咪咕视频22
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
+
 
 #EXTINF:-1 tvg-name="咪咕视频24" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频24.png",咪咕视频24
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
