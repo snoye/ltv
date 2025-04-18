@@ -42,6 +42,27 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8#http://hwot
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227221/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227341/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+高清.png",CCTV5+高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226745/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227236/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通高清" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通高清.png",金鹰卡通高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
+#EXTINF:-1 tvg-name="辽宁都市高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市高清.png",辽宁都市高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
+#EXTINF:-1 tvg-name="辽宁北方高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方高清.png",辽宁北方高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
+#EXTINF:-1 tvg-name="辽宁公共高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共高清.png",辽宁公共高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
+#EXTINF:-1 tvg-name="辽宁教育青少高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少高清.png",辽宁教育青少高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
+#EXTINF:-1 tvg-name="辽宁经济高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济高清.png",辽宁经济高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
+#EXTINF:-1 tvg-name="辽宁生活高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁生活高清.png",辽宁生活高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视剧高清.png",辽宁影视剧高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
+
+#EXTINF:-1 tvg-name="辽宁宜家购物高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁宜家购物高清.png",辽宁宜家购物高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
+#EXTINF:-1 tvg-name="辽宁移动电视高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁移动电视高清.png",辽宁移动电视高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视高清.png",辽宁卫视高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视高清.png",湖南卫视高清
@@ -182,25 +203,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8#http://hwot
 #EXTINF:-1 tvg-name="CCTV17高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV17高清.png",CCTV17高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
 
-#EXTINF:-1 tvg-name="辽宁都市高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市高清.png",辽宁都市高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
-#EXTINF:-1 tvg-name="辽宁北方高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方高清.png",辽宁北方高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
-#EXTINF:-1 tvg-name="辽宁公共高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共高清.png",辽宁公共高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少高清.png",辽宁教育青少高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
-#EXTINF:-1 tvg-name="辽宁经济高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济高清.png",辽宁经济高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
-#EXTINF:-1 tvg-name="辽宁生活高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁生活高清.png",辽宁生活高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
-#EXTINF:-1 tvg-name="辽宁影视剧高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视剧高清.png",辽宁影视剧高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 
-#EXTINF:-1 tvg-name="辽宁宜家购物高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁宜家购物高清.png",辽宁宜家购物高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
-#EXTINF:-1 tvg-name="辽宁移动电视高清" tvg-logo="https://live.fanmingming.cn/tv/辽宁移动电视高清.png",辽宁移动电视高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视高清" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视高清.png",安徽卫视高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
 
@@ -245,8 +248,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8#http://hwot
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实高清" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实高清.png",金鹰纪实高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通高清" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通高清.png",金鹰卡通高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
+
 
 #EXTINF:-1 tvg-name="茶频道高清" tvg-logo="https://live.fanmingming.cn/tv/茶频道高清.png",茶频道高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
