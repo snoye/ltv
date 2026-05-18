@@ -37,6 +37,54 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 
 #EXTINF:-1 group-title="央视",CCTV-1综合
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png",咪咕视频
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频01" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频01.png",咪咕视频01
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频03" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频03.png",咪咕视频03
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频04" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频04.png",咪咕视频04
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227320/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频05" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频05.png",咪咕视频05
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频06" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频06.png",咪咕视频06
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频07" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频07.png",咪咕视频07
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227366/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频09" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频09.png",咪咕视频09
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频11" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频11.png",咪咕视频11
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="咪咕视频16" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频16.png",咪咕视频16-1
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频18" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频18.png",咪咕视频18-2
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
+
+
+#EXTINF:-1 tvg-name="咪咕视频21" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频21.png",咪咕视频21
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
+
+
+#EXTINF:-1 tvg-name="咪咕视频24" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频24.png",咪咕视频24
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频25" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频25.png",咪咕视频25
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
+
+
+#EXTINF:-1 tvg-name="咪咕视频28" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频28.png",咪咕视频28
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频29" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频29.png",咪咕视频29
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕视频32" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频32.png",咪咕视频32
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV-3综艺
