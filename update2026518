@@ -1,3 +1,37 @@
+#EXTINF:-1 group-title="辽宁地方台",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227551/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227569/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227575/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227645/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁宜佳购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227557/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227554/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227651/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",沈阳新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227563/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",阜新教育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227662/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",阜新新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227717/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",盘锦都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",盘锦新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227751/index.m3u8
+
+
 #EXTM3U
 #EXTINF:-1 ,咪咕视频HD-1
 http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
