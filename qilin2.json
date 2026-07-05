@@ -1,0 +1,86 @@
+{
+    "spider": "",
+    "wallpaper": "https://asxs.me",
+    "parses": [
+        {
+            "name": "并发聚合解析",
+            "type": 3,
+            "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url="
+        },
+        {
+            "name": "极速解析①",
+            "type": 1,
+            "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "极速解析②",
+            "type": 1,
+            "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url=m"
+        },
+        {
+            "name": "极速解析③",
+            "type": 1,
+            "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url="
+        }
+    ],
+    "sites": [
+        {
+            "key": "AQY",
+            "name": "🦋 爱奇艺 ｜Tg：@huliys9",
+            "type": 3,
+            "api": "https://icve.com.cn",
+            "ext": "https://waimaimingtang.com",
+            "category": "综合",
+            "searchable": 1
+        },
+        {
+            "key": "YK_js",
+            "name": "🦋 优酷视频 ｜Tg：@huliys9",
+            "type": 3,
+            "api": "https://icve.com.cn",
+            "ext": "https://waimaimingtang.com",
+            "category": "综合",
+            "searchable": 1
+        },
+        {
+            "key": "YK_py",
+            "name": "🦋 优酷视频.py｜Tg：@huliys9",
+            "type": 3,
+            "api": "https://ghfast.top",
+            "category": "综合",
+            "searchable": 1
+        },
+        {
+            "key": "TX",
+            "name": "🦋 腾讯视频｜Tg：@huliys9",
+            "type": 3,
+            "api": "https://icve.com.cn",
+            "ext": "https://waimaimingtang.com",
+            "category": "综合",
+            "searchable": 1
+        },
+        {
+            "key": "MG_js",
+            "name": "🦋 芒果TV",
+            "type": 3,
+            "api": "https://icve.com.cn",
+            "ext": "https://waimaimingtang.com",
+            "category": "综合",
+            "searchable": 1
+        },
+        {
+            "key": "MGtv_py",
+            "name": "🦋 芒果TV.py",
+            "type": 3,
+            "api": "https://ghfast.top",
+            "category": "综合",
+            "searchable": 1
+        }
+    ],
+    "lives": []
+}
