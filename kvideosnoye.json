@@ -1,34 +1,34 @@
 [
     {
-        "id": "飞凡",
-        "name": "非凡资源",
-        "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+        "id": "xigua",
+        "name": "西瓜",
+        "baseUrl": "https://caiji.xgzyapi.com/api.php/provide/vod",
         "组": "正常",
-        “启用”：true，
-        “优先级”：1
+        "启用": true,
+        "优先级": 1
     },
     {
-        "id": "wolong",
-        "name": "卧龙资源",
-        "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+        "id": "ok",
+        "name": "ok资源站",
+        "baseUrl": "https://api.okzyw.net/api.php/provide/vod",
         "组": "正常",
-        “启用”：true，
-        “优先级”：2
-     },
+        "启用": true,
+        "优先级": 2
+    },
     {
-        "id": "小吉",
-        "name": "小鸡资源",
-        "baseUrl": "https://api.xiaojizy.live/provide/vod",
-        "组": "高级"
-        “启用”：true，
-        “优先级”：21
+        "id": "zuida",
+        "name": "最大资源",
+        "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+        "组": "正常",
+        "启用": true,
+        "优先级": 3
     },
     {
         "id": "喜宝",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "组": "高级"
-        “启用”：true，
-        “优先级”：22
+        "组": "高级",
+        "启用": true,
+        "优先级": 22
     }
 ]
