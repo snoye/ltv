@@ -24,11 +24,11 @@
         “优先级”：3
     },
     {
-        "id": "xibao",
+        "id": "喜宝",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "group": "premium",
-        "enabled": true,
-        "priority": 22
+        "组": "高级"
+        “启用”：true，
+        “优先级”：22
     }
 ]
