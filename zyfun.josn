@@ -1,128 +1,133 @@
-[
-  {
-    "id": "iqiyi-zy",
-    "name": "🎬-爱奇艺-",
-    "api": "https://iqiyizyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "maotai-zy",
-    "name": "🎬茅台资源",
-    "api": "https://maotaizy.cc",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "wolong-zy",
-    "name": "🎬卧龙资源",
-    "api": "https://wolongzyw.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "ikun-zy",
-    "name": "🎬ikun资源",
-    "api": "https://ikunzyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "dytt-zy",
-    "name": "🎬电影天堂",
-    "api": "http://dyttzyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "maoyan-zy",
-    "name": "🎬猫眼资源",
-    "api": "https://maoyanapi.top",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "liangzi-zy",
-    "name": "🎬量子资源",
-    "api": "https://lzcaiji.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "360-zy",
-    "name": "🎬360 资源",
-    "api": "https://360zyzz.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "jisu-zy",
-    "name": "🎬极速资源",
-    "api": "https://jszyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "modu-zy",
-    "name": "🎬魔都资源",
-    "api": "https://mdzyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "feifan-zy",
-    "name": "🎬非凡资源",
-    "api": "https://ffzyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "baofeng-zy",
-    "name": "🎬暴风资源",
-    "api": "https://bfzyapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "zuida-zy",
-    "name": "🎬最大资源",
-    "api": "https://zuidapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "wujin-zy",
-    "name": "🎬无尽资源",
-    "api": "https://wujinapi.me",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "xinlang-zy",
-    "name": "🎬新浪资源",
-    "api": "https://xinlangapi.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "wangwang-zy",
-    "name": "🎬旺旺资源",
-    "api": "https://wwzy.tv",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "subo-zy",
-    "name": "🎬速播资源",
-    "api": "https://subocaiji.com",
-    "type": 1,
-    "isActive": true
-  },
-  {
-    "id": "jinying-zy",
-    "name": "🎬金鹰资源",
-    "api": "https://jyzyapi.com",
-    "type": 1,
-    "isActive": true
+{
+  "sites": {
+    "default": "iqiyi-zy",
+    "data": [
+      {
+        "id": "iqiyi-zy",
+        "name": "🎬-爱奇艺-",
+        "api": "https://iqiyizyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "maotai-zy",
+        "name": "🎬茅台资源",
+        "api": "https://maotaizy.cc",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "wolong-zy",
+        "name": "🎬卧龙资源",
+        "api": "https://wolongzyw.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "ikun-zy",
+        "name": "🎬ikun资源",
+        "api": "https://ikunzyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "dytt-zy",
+        "name": "🎬电影天堂",
+        "api": "http://dyttzyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "maoyan-zy",
+        "name": "🎬猫眼资源",
+        "api": "https://maoyanapi.top",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "liangzi-zy",
+        "name": "🎬量子资源",
+        "api": "https://lzcaiji.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "360-zy",
+        "name": "🎬360 资源",
+        "api": "https://360zyzz.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "jisu-zy",
+        "name": "🎬极速资源",
+        "api": "https://jszyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "modu-zy",
+        "name": "🎬魔都资源",
+        "api": "https://mdzyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "feifan-zy",
+        "name": "🎬非凡资源",
+        "api": "https://ffzyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "baofeng-zy",
+        "name": "🎬暴风资源",
+        "api": "https://bfzyapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "zuida-zy",
+        "name": "🎬最大资源",
+        "api": "https://zuidapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "wujin-zy",
+        "name": "🎬无尽资源",
+        "api": "https://wujinapi.me",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "xinlang-zy",
+        "name": "🎬新浪资源",
+        "api": "https://xinlangapi.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "wangwang-zy",
+        "name": "🎬旺旺资源",
+        "api": "https://wwzy.tv",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "subo-zy",
+        "name": "🎬速播资源",
+        "api": "https://subocaiji.com",
+        "type": 1,
+        "isActive": true
+      },
+      {
+        "id": "jinying-zy",
+        "name": "🎬金鹰资源",
+        "api": "https://jyzyapi.com",
+        "type": 1,
+        "isActive": true
+      }
+    ]
   }
-]
+}
