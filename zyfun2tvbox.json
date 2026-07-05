@@ -734,5 +734,11 @@
     }
   ],
   "lives": [],
-  "flags": []
+  "flags": [
+    "youku",
+    "qq",
+    "qiyi",
+    "mgtv",
+    "bilibili"
+]
 }
