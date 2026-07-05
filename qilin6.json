@@ -1,0 +1,53 @@
+{
+  "spider": "https://cnb.cool/fish2018/xs/-/git/raw/main/spider.jar",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpape",
+  "sites": [
+    {
+      "key": "site_1783295123147",
+      "name": "mangg",
+      "type": 1,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1783295239121",
+      "name": "oyuku",
+      "type": 1,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优酷视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "新解析接口",
+      "type": 0,
+      "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "qq",
+          "iqiyi",
+          "qiyi",
+          "letv",
+          "sohu",
+          "tudou",
+          "pptv",
+          "mgtv",
+          "wasu"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
