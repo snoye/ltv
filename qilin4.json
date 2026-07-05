@@ -1,0 +1,89 @@
+"spider": "https://cnb.cool/fish2018/xs/-/git/raw/main/spider.jar",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "logo": "https://img.naixiai.cn/2026/06/18/IMG_6638.jpeg",
+    {
+  "sites": [
+    {
+      "key": "AQY",
+      "name": "🦋 爱奇艺 ｜Tg：@huliys9",
+      "type": 3,
+      "api": "https://icve.com.cn",
+      "ext": "https://waimaimingtang.com",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "YK_js",
+      "name": "🦋 优酷视频 ｜Tg：@huliys9",
+      "type": 3,
+      "api": "https://icve.com.cn",
+      "ext": "https://waimaimingtang.com",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "YK_py",
+      "name": "🦋 优酷视频.py｜Tg：@huliys9",
+      "type": 3,
+      "api": "https://ghfast.top",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "TX",
+      "name": "🦋 腾讯视频｜Tg：@huliys9",
+      "type": 3,
+      "api": "https://icve.com.cn",
+      "ext": "https://waimaimingtang.com",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "MG_js",
+      "name": "🦋 芒果TV",
+      "type": 3,
+      "api": "https://icve.com.cn",
+      "ext": "https://waimaimingtang.com",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "MGtv_py",
+      "name": "🦋 芒果TV.py",
+      "type": 3,
+      "api": "https://ghfast.top",
+      "category": "综合",
+      "searchable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "JXAPI",
+      "type": 1,
+      "url": "https://api.jxapi.cc/api/?key=8d0141a6a8fbff2db18ee228d805e685&url="
+    }
+  ],
+  "flags": [
+    "iqiyi",
+    "qiyi",
+    "爱奇艺",
+    "qq",
+    "腾讯",
+    "腾讯视频",
+    "youku",
+    "优酷",
+    "mgtv",
+    "芒果",
+    "芒果TV",
+    "bilibili",
+    "哔哩哔哩",
+    "pptv",
+    "sohu",
+    "搜狐",
+    "letv",
+    "乐视",
+    "1905",
+    "咪咕",
+    "miguvideo"
+  ]
+}
