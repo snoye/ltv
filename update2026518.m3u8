@@ -12,6 +12,19 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 #EXTINF:-1 group-title="数字付费/专题/少儿/购物",CHC影迷电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV-16奥林匹克
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV-6电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227422/index.m3u8
+#EXTINF:-1 group-title="辽宁地方台",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
+
 #EXTINF:-1 group-title="辽宁地方台",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 group-title="辽宁地方台",辽宁北方
@@ -26,8 +39,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227645/index.m3u8
 #EXTINF:-1 group-title="辽宁地方台",辽宁生活
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8
-#EXTINF:-1 group-title="辽宁地方台",辽宁体育休闲
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
+
 #EXTINF:-1 group-title="辽宁地方台",辽宁宜佳购物
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227557/index.m3u8
 #EXTINF:-1 group-title="辽宁地方台",辽宁移动电视
@@ -143,12 +155,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+体育赛事
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5体育
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6电影
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227422/index.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-7国防军事
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8电视剧
@@ -167,8 +174,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227446/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15音乐
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16奥林匹克
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-17农业农村
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV兵器科技
