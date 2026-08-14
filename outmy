@@ -1,1 +1,17 @@
-mtv
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",MTV
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227648/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",武术世界
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227708/index.m3u8
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",CHC动作电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",CHC家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
+#EXTINF:-1 group-title="数字付费/专题/少儿/购物",CHC影迷电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+体育赛事
